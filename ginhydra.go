@@ -3,7 +3,7 @@ package ginhydra
 import (
 	hydra "github.com/ory-am/hydra/sdk"
 
-	"github.com/gin-gonic/gin"
+	"github.com/gin-gonic/gin.v1"
 )
 
 var (
